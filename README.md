@@ -1,5 +1,7 @@
 # mock-server
 前後端分離mock-server
+# License
+Mozilla Public License Version 2.0
 
 ### mock server
 
